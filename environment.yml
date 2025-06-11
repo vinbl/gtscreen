@@ -1,4 +1,4 @@
-name: project_gt
+name: gtscreen
 channels:
 - conda-forge
 dependencies:
