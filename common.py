@@ -9,9 +9,9 @@ import pickle
 import re
 from tqdm import tqdm
 
-filepath_results= "../results_v4/"
+filepath_results= "./results/"
 
-eids2enzymes = pd.read_csv('../data/MS_2/ELYS_ID_to_Enzyme_name_VB.txt', sep='\t', encoding='utf8')
+eids2enzymes = pd.read_csv('../data/screening_data/ELYS_ID_to_Enzyme_name_VB.txt', sep='\t', encoding='utf8')
 eids2enzymes = dict(zip(eids2enzymes.ELYS_ID, eids2enzymes.Enzyme_name))
 
 d3to1 = {'CYS': 'C', 'ASP': 'D', 'SER': 'S', 'GLN': 'Q', 'LYS': 'K',
@@ -47,5 +47,5 @@ def cosine_greedy_score(mz_peaks, i_peaks, mz_peaks_ref, i_peaks_ref):
         return float(score['score'])
     
 
-enzymes_inclusion = pd.read_csv('../data/MS_2/EnzymeInclusionList_SS030623_v3.csv', dtype={'Enzyme Name': str})
+enzymes_inclusion = pd.read_csv('../data/screening_data/Enzymes_SS030623.csv', dtype={'Enzyme Name': str})
 enzymes_inclusion = set(enzymes_inclusion['Enzyme Name'])
