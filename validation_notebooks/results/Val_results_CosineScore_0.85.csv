@@ -1,0 +1,23 @@
+File,Name,CSMILES,Enzyme_id,single_double,CosineScore_single,RT_single,AUC_single,Adduct_single,C-gly_single,MoNA_DB#_single,CosineScore_double,RT_double,AUC_double,Adduct_double,C-gly_double,MoNA_DB#_double
+./mzML/73C5_10hydroxycampothecin_3.mzML,10-HYDROXYCAMPTOTHECIN,CCC1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3cc(O)ccc3nc2-1,73C5,single,0.918,361.89,118790.0,M+Glu+H,False,VF-NPL-QEHF002718,,,,,,
+./mzML/73C5_18alphaglycyrrhetinicacid_3.mzML,ENOXOLONE,CC1(C(=O)O)CCC2(C)CCC3(C)C(=CC(=O)C4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1,73C5,single_and_double,0.966,685.45,769367.0,M+Glu+H,False,VF-NPL-QEHF013845,0.95,586.54,215979.0,M+2Glu+H,False,VF-NPL-QEHF013845
+./mzML/73C5_AleureticAcid_2.mzML,ALEURETIC ACID,O=C(O)CCCCCCCC(O)C(O)CCCCCCO,73C5,single,0.981,444.28,186700.0,M+Glu+H,False,VF-NPL-QEHF013686,,,,,,
+./mzML/73C5_Boldine_2.mzML,BOLDINE,COc1cc2c(cc1O)CC1c3c(cc(O)c(OC)c3-2)CCN1C,73C5,single,0.93,306.11,12664.0,M+Glu+H,False,VF-NPL-QEHF002838,,,,,,
+./mzML/73C5_Capsaicin_2.mzML,CAPSAICIN,COc1cc(CNC(=O)CCCCC=CC(C)C)ccc1O,73C5,single,0.998,585.96,121902.0,M+Glu+NH4,False,FiehnHILIC001813,,,,,,
+./mzML/73C5_Curcumin_1.mzML,CURCUMIN,COc1cc(C=CC(=O)CC(=O)C=Cc2ccc(O)c(OC)c2)ccc1O,73C5,single,0.963,549.81,686825.0,M+Glu+H,False,VF-NPL-QEHF027276,,,,,,
+./mzML/73C5_Curcumin_3.mzML,CURCUMIN,COc1cc(C=CC(=O)CC(=O)C=Cc2ccc(O)c(OC)c2)ccc1O,73C5,double,,,,,,,0.901,448.2,100672.0,M+2Glu+H,False,VF-NPL-QEHF027276
+./mzML/73C5_Esculetin_3.mzML,ESCULETIN,O=c1ccc2cc(O)c(O)cc2o1,73C5,single,0.963,287.25,38074.0,M+Glu+H,False,FiehnHILIC001715,,,,,,
+./mzML/73C5_Formononetin_2.mzML,FORMONONETIN,COc1ccc(-c2coc3cc(O)ccc3c2=O)cc1,73C5,single,0.969,467.11,1823241.0,M+Glu+H,False,NA003190,,,,,,
+./mzML/73C5_Galangin_1.mzML,GALANGIN,O=c1c(O)c(-c2ccccc2)oc2cc(O)cc(O)c12,73C5,double,,,,,,,0.981,360.17,67966.0,M+2Glu+H,False,CCMSLIB00000847621
+./mzML/73C5_Galangin_3.mzML,GALANGIN,O=c1c(O)c(-c2ccccc2)oc2cc(O)cc(O)c12,73C5,single,0.987,501.17,423416.0,M+Glu+H,False,CCMSLIB00000847621,,,,,,
+./mzML/73C5_GlycocholicAcid_3.mzML,GLYCOCHOLIC ACID,CC(CCC(=O)NCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C,73C5,single,0.988,528.8,205030.0,M+Glu+H,False,VF-NPL-QEHF025254,,,,,,
+./mzML/73C5_Icariin_3.mzML,ICARIIN,COc1ccc(-c2oc3c(CC=C(C)C)c(OC4OC(CO)C(O)C(O)C4O)cc(O)c3c(=O)c2OC2OC(C)C(O)C(O)C2O)cc1,73C5,single,0.863,486.66,71228.0,M+Glu+H,False,RIKENPlaSMA003765,,,,,,
+./mzML/73C5_Lagochiline_1.mzML,DEOXYCHOLIC ACID,CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C,73C5,single,0.958,636.74,58658.0,M+Glu+NH4,False,VF-NPL-QEHF013890,,,,,,
+./mzML/73C5_Lagochiline_1.mzML,LAGOCHILIN,CC1CCC2C(C)(CO)C(O)CCC2(C)C12CCC(CO)(CCO)O2,73C5,single,0.913,493.87,317425.0,M+Glu+H,False,VF-NPL-QEHF026853,,,,,,
+./mzML/73C5_Lobeline_3.mzML,LOBELINE,CN1C(CC(=O)c2ccccc2)CCCC1CC(O)c1ccccc1,73C5,single,0.975,418.95,12189.0,M+Glu+H,False,VF-NPL-QEHF025659,,,,,,
+./mzML/73C5_Osajin_1.mzML,OSAJIN,CC(C)=CCc1c2c(c3occ(-c4ccc(O)cc4)c(=O)c3c1O)C=CC(C)(C)O2,73C5,single,0.905,812.48,315035.0,M+Glu+H,False,VF-NPL-QEHF004017,,,,,,
+./mzML/73C5_Quercetin_2.mzML,QUERCETIN,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,73C5,single_and_double,0.975,427.65,383321.0,M+Glu+H,False,PB000202,0.908,344.08,22307.0,M+2Glu+H,False,PB004084
+./mzML/73C5_Quercetin_3.mzML,MORIN,O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12,73C5,double,,,,,,,0.91,344.12,25764.0,M+2Glu+H,False,CCMSLIB00000848829
+./mzML/73C5_Silibinin_2.mzML,SILIBININ,COc1cc(C2Oc3cc(C4Oc5cc(O)cc(O)c5C(=O)C4O)ccc3OC2CO)ccc1O,73C5,single,0.97,446.54,73664.0,M+Glu+NH4,False,VF-NPL-QEHF011793,,,,,,
+./mzML/73C5_Solasodine_1.mzML,SOLASODINE,CC1CCC2(NC1)OC1CC3C4CC=C5CC(O)CCC5(C)C4CCC3(C)C1C2C,73C5,single,0.857,506.12,12167735.0,M+Glu+H,False,VF-NPL-QEHF027381,,,,,,
+./mzML/73C5_Steviol_3.mzML,STEVIOL,C=C1CC23CCC4C(C)(C(=O)O)CCCC4(C)C2CCC1(O)C3,73C5,single,0.917,620.5,348657.0,M+Glu+NH4,False,MoNA041235,,,,,,

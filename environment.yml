@@ -1,0 +1,25 @@
+name: gtscreen
+channels:
+- conda-forge
+dependencies:
+- ipython
+- ipykernel
+- python=3.10
+- rdkit
+- pip
+- pip:
+    - lxml
+    - matchms
+    - pyopenms
+    - scikit-learn
+    - seaborn
+    - xgboost
+    - transformers
+    - tqdm
+    - biopython
+    - umap-learn
+    - venn
+    - plotly
+    - nbformat
+    - ete3
+    - tanglegram
