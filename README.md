@@ -6,6 +6,8 @@ If you use this work, please cite:
   author={Sirirungruang, Sasilada and Rodriguez, Elys and Kong, Fanzhou and Li, Yuanyue and Blay, Vincent and Scott, Yasmine and Vuu, Khanh and Barnum, Collin and Opgenorth, Paul and Fiehn, Oliver},
   journal={Nature Communications},
   year={2025},
-  volume={X},
-  pages={X--X}
+  volume={in press},
+  note={In press},
+  doi={10.1038/s41467-025-61530-6},
 }
+```
